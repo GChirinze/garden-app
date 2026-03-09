@@ -1,4 +1,4 @@
-# Gardening tips app for gardeners
+# Gardening tips app for gardener
 
 def get_season(month):
     # TODO: Create a function to determine season based on month
